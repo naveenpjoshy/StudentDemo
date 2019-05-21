@@ -16,7 +16,7 @@ public class StudentTester {
     public static void main(String[] args)
     {
         //char[] pillbox=new char[7];
-        //array of StudentDemo objects
+        //array of StudentDemo object
         StudentDemo[] StudentLst=new StudentDemo[3];
         
         StudentDemo s1=new StudentDemo("Sheetal Thakar");
